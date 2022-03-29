@@ -11,3 +11,6 @@ function anaToVori (ana){
 var a = 20
 var b = 30
 console.log(a + b)
+var z = 300
+var x = 500
+console.log(x * z)
